@@ -1,2 +1,2 @@
 # quote-api-starting
-Application that is part of the Code Academy backend developer career path. Learning on how to use the nodeJS express framework in an excerise on building the API for a quote generator.ß
+Application that is part of the Code Academy backend developer career path. Learning on how to use the nodeJS express framework in an excerise on building the API for a quote generator.
